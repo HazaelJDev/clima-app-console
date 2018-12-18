@@ -16,7 +16,7 @@ Obten las API KEYS y **agregalas** en los archivos:
 
 Busca las lineas de codigo en estos archivos donde este escrito **YOUR_API_KEY** y remplazalos por tus API KEYs.
 
-**Ejemplos de uso** :
+### Ejemplos de uso:
 ```
 node app -d "Madrid España"
 node app --direccion "Tokyo Japan"
