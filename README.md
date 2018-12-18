@@ -10,8 +10,10 @@ npm install
 Para que esta aplicación funcione tu necesitas tener una API KEY de Google Maps y una API KEY de OpenWeatherMap ya que esta aplicación ocupa APIs para obtener los datos de ubicación y los datos del clima. 
 
 Obten las API KEYS y **agregalas** en los archivos:
-    * lugar.js en este archivo necesitamos la API KEY de Google Maps
-    * clima.js en este archivo necesitamos la API KEY de OpenWeatherMap
+
+* lugar.js en este archivo necesitamos la API KEY de Google Maps
+* clima.js en este archivo necesitamos la API KEY de OpenWeatherMap
+
 Busca las lineas de codigo en estos archivos donde este escrito **YOUR_API_KEY** y remplazalos por tus API KEYs.
 
 **Ejemplos de uso** :
