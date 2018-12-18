@@ -36,9 +36,11 @@ puedes usar __-d__ o __--direccion__  como parametros en la aplicacion y acontin
 
 **Si tú quieres cambiar el sistema de medicion de la temperatura lo puedes hacer con libertad.**
 El secreto esta en el parametro **units** 
-    - default: grados Kelvin 
-    - metric: grados Celsius
-    - imperial: grados Fahrenheit
+
+* default: grados Kelvin 
+* metric: grados Celsius
+* imperial: grados Fahrenheit
+
 Si quieres grados Kelvin **no necesitas pasar el parametro units en la petición de la API** ya que por default es el sistema de medicion de grados que usa la API.
 
 Para más información lee la documentación de la API de OpenWeatherMap.
