@@ -1,6 +1,6 @@
 ## Aplicación del Clima en NodeJS
 Esta es una aplicación para obtener algunos datos basicos referentes al clima desde consola.
-El usuario debe ingresar el nombre de alguna ciudad o localidad y se le desplegaran en consola los datos del clima en esa localidad.
+El usuario debe ingresar el nombre de alguna ciudad o localidad y se le desplegaran en consola los datos del clima de esa localidad.
 
 Despues de descargar el repositorio ejecutar el siguiente comando:
 ```
